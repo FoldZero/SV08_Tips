@@ -52,7 +52,12 @@ pid_deriv_time: 2.0
 
 
 ## Printhead Upgrades
-### Stealthburner Conversion
+
+## SPARTACUS The Toolhead
+
+https://www.printables.com/model/745412-spartacus-the-toolhead
+
+## Stealthburner Conversion
 
 Description: Convert your SV08 to use the Voron Stealthburner printhead
 STL Files: Printables - SV08 Stealthburner Conversion
