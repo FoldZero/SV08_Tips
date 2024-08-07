@@ -4,7 +4,8 @@ Motherboard Fan Loudness
 On the 2.3.3 Firmware Sovol have put the wrong PIN to control the motherboard fan. 
 it can be fixed and improved turning it into a Temperature controlled reaactive Fan.
 
-== Make Backups of any File you change! ==
+> [!IMPORTANT]
+> == Make Backups of any File you change! ==
 
 Open Printer.cfg and replace the following Text.
 
