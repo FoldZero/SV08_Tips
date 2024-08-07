@@ -13,11 +13,14 @@ Mostly derived from the Official Facebook Page [Sovol SV08 Official User Group] 
 - Home the Printer
 - Calibrate the Z-Offset
 - Install Orca Slicer
+- Run a Temperature Tower to familiarise yourself with the speeds and flows capable, every filament has potential to be different.
 - Run a Test Print
 
 ## Motherboard Fan Loudness
 On the 2.3.3 Firmware Sovol have put the wrong PIN to control the motherboard fan. 
 it can be fixed and improved turning it into a Temperature controlled reaactive Fan.
+
+Credit John Hansknecht and Video here - https://www.youtube.com/watch?v=t3RJ5DbOdcs&ab_channel=JohnHansknecht
 
 Open Printer.cfg and replace the following Text.
 ```
