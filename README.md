@@ -1,24 +1,34 @@
-
+# SV08 - Useful Tips
 A collection of tips for the Sovol SV08 Printer.
 Mostly derived from the Official Facebook Page [Sovol SV08 Official User Group] (https://www.facebook.com/groups/6997076173737632)
 
-SV08 - Useful Tips
 
-Motherboard Fan Loudness
-On the 2.3.3 Firmware Sovol have put the wrong PIN to control the motherboard fan. 
-it can be fixed and improved turning it into a Temperature controlled reaactive Fan.
 
 > [!IMPORTANT]
 > == Make Backups of any File you change! ==
 
-Open Printer.cfg and replace the following Text.
+## First Steps
+### Calibrate the printer
+- Run a Pid tune for the Bed and Extruder
+- Home the Printer
+- Calibrate the Z-Offset
+- Install Orca Slicer
+- Run a Test Print
 
+## Motherboard Fan Loudness
+On the 2.3.3 Firmware Sovol have put the wrong PIN to control the motherboard fan. 
+it can be fixed and improved turning it into a Temperature controlled reaactive Fan.
+
+Open Printer.cfg and replace the following Text.
+```
 [fan_generic fan3] # exhaust fan
 pin: PA2
 max_power: 1.0
+```
 
 With this text
 
+```
 [temperature_fan fan3]
 pin: PA1
 kick_start_time: 0.5
@@ -35,3 +45,6 @@ pid_Kp: 2.0     ;40
 pid_Ki: 5.0     ;0.2
 pid_Kd: 0.5     ;0.1
 pid_deriv_time: 2.0
+```
+
+
