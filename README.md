@@ -63,7 +63,7 @@ Description: Convert your SV08 to use the Voron Stealthburner printhead
 STL Files: Printables - SV08 Stealthburner Conversion
 Guide: YouTube - SV08 Stealthburner Mod
 
-BambuLab X1 Hotend Adapter
+## BambuLab X1 Hotend Adapter
 
 Description: Adapter to use the BambuLab X1 hotend on the SV08
 STL Files: Printables - BambuLab X1 Hotend Adapter for SV08
