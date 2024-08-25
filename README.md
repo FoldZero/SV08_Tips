@@ -51,7 +51,7 @@ pid_deriv_time: 2.0
 ```
 
 
-### Printhead Upgrades
+# Printhead Upgrades
 
 ## Minimal Shroud for SV08 (Super Beta)
 **https://www.printables.com/model/983776-minimal-shroud-for-sv08-super-beta**
@@ -66,14 +66,16 @@ Description: Convert your SV08 to use the Voron Stealthburner printhead
 STL Files: Printables - SV08 Stealthburner Conversion
 Guide: YouTube - SV08 Stealthburner Mod
 
-## BambuLab X1 Hotend Adapter
+### Bambu Nozzle on Your Sovol SV08!
 
-Description: Adapter to use the BambuLab X1 hotend on the SV08
-STL Files: Printables - BambuLab X1 Hotend Adapter for SV08
+- stl - [Sovol SV08 Bambulab Hotend Support](https://www.printables.com/model/942453-sovol-sv08-bambulab-hotend-support)
+Credit Nadir [Printables]
+- Video - [Bambu Nozzle on Your Sovol SV08!](https://www.youtube.com/watch?v=mqC7Y-PyLHw&ab_channel=3DPrintedObjects)
+Credit 3D Printed Objects [yt]
 
 
 # Profiles
-## PrusaSlicer
+### PrusaSlicer
 - **Description**: Pre-configured profiles for PrusaSlicer specifically for the SOVOL SV08.
 - **GitHub Link**: [SV08 PrusaSlicer Profiles](https://github.com/user/SV08-PrusaSlicer-Profiles) *(Placeholder link, replace with actual if available)*
 
@@ -83,9 +85,4 @@ STL Files: Printables - BambuLab X1 Hotend Adapter for SV08
 - **GitHub Link**: [Sovol-SV08-Mainline](https://github.com/Rappetor/Sovol-SV08-Mainline)
 
   
-### Bambu Nozzle on Your Sovol SV08!
 
-- stl - [Sovol SV08 Bambulab Hotend Support](https://www.printables.com/model/942453-sovol-sv08-bambulab-hotend-support)
-Credit Nadir [Printables]
-- Video - [Bambu Nozzle on Your Sovol SV08!](https://www.youtube.com/watch?v=mqC7Y-PyLHw&ab_channel=3DPrintedObjects)
-Credit 3D Printed Objects [yt]
