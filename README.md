@@ -16,7 +16,7 @@ Mostly derived from the Official Facebook Page
 - Run a Temperature Tower to familiarise yourself with the speeds and flows capable, every filament has potential to be different.
 - Run a Test Print
 
-## Motherboard Fan Loudness
+### Motherboard Fan Loudness
 On the 2.3.3 Firmware Sovol have put the wrong PIN to control the motherboard fan. 
 it can be fixed and improved turning it into a Temperature controlled reaactive Fan.
 
@@ -51,16 +51,16 @@ pid_deriv_time: 2.0
 ```
 
 
-# Printhead Upgrades
+## Printhead Upgrades
 
-## Minimal Shroud for SV08 (Super Beta)
+### Minimal Shroud for SV08 (Super Beta)
 **https://www.printables.com/model/983776-minimal-shroud-for-sv08-super-beta**
 
-## SPARTACUS The Toolhead
+### SPARTACUS The Toolhead
 
 https://www.printables.com/model/745412-spartacus-the-toolhead
 
-## Stealthburner Conversion
+### Stealthburner Conversion
 
 Description: Convert your SV08 to use the Voron Stealthburner printhead
 STL Files: Printables - SV08 Stealthburner Conversion
@@ -74,7 +74,7 @@ Credit Nadir [Printables]
 Credit 3D Printed Objects [yt]
 
 
-# Profiles
+## Profiles
 ### PrusaSlicer
 - **Description**: Pre-configured profiles for PrusaSlicer specifically for the SOVOL SV08.
 - **GitHub Link**: [SV08 PrusaSlicer Profiles](https://github.com/user/SV08-PrusaSlicer-Profiles) *(Placeholder link, replace with actual if available)*
