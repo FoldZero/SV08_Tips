@@ -51,7 +51,10 @@ pid_deriv_time: 2.0
 ```
 
 
-## Printhead Upgrades
+### Printhead Upgrades
+
+## Minimal Shroud for SV08 (Super Beta)
+**https://www.printables.com/model/983776-minimal-shroud-for-sv08-super-beta**
 
 ## SPARTACUS The Toolhead
 
